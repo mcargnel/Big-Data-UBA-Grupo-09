@@ -2,4 +2,5 @@
 .venv/
 
 # Ignore the entire TP3 directory and all its contents
-TPtres/data
+TP_Final/data
+TP_Final/final_fraud_df.parquet
