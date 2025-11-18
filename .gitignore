@@ -1,6 +1,5 @@
 # Ignore the Python virtual environment
 .venv/
 
-# Ignore the entire TP3 directory and all its contents
 TP_Final/data
-TP_Final/final_fraud_df.parquet
+TP_Final/fraud_model.cbm
